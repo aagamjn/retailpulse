@@ -1,0 +1,19 @@
+# Data — too large for GitHub
+data/online_retail_II.csv
+data/online_retail_II.xlsx
+
+# Environment & Python cache
+.env
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Models & generated artifacts
+*.pkl
+models/
+outputs/charts/
